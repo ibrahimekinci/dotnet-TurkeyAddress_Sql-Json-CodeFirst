@@ -1,0 +1,1626 @@
+﻿[
+  {
+    "CountryID": 1,
+    "BinaryCode": "AF",
+    "TripleCode": "AFG",
+    "Name": "Afghanistan",
+    "PhoneCode": "93"
+  },
+  {
+    "CountryID": 2,
+    "BinaryCode": "AL",
+    "TripleCode": "ALB",
+    "Name": "Albania",
+    "PhoneCode": "355"
+  },
+  {
+    "CountryID": 3,
+    "BinaryCode": "DZ",
+    "TripleCode": "DZA",
+    "Name": "Algeria",
+    "PhoneCode": "213"
+  },
+  {
+    "CountryID": 4,
+    "BinaryCode": "AS",
+    "TripleCode": "ASM",
+    "Name": "American Samoa",
+    "PhoneCode": "684"
+  },
+  {
+    "CountryID": 5,
+    "BinaryCode": "AD",
+    "TripleCode": "AND",
+    "Name": "Andorra",
+    "PhoneCode": "376"
+  },
+  {
+    "CountryID": 6,
+    "BinaryCode": "AO",
+    "TripleCode": "AGO",
+    "Name": "Angola",
+    "PhoneCode": "244"
+  },
+  {
+    "CountryID": 7,
+    "BinaryCode": "AI",
+    "TripleCode": "AIA",
+    "Name": "Anguilla",
+    "PhoneCode": "264"
+  },
+  {
+    "CountryID": 8,
+    "BinaryCode": "AQ",
+    "TripleCode": "ATA",
+    "Name": "Antarctica",
+    "PhoneCode": "672"
+  },
+  {
+    "CountryID": 9,
+    "BinaryCode": "AG",
+    "TripleCode": "ATG",
+    "Name": "Antigua and Barbuda",
+    "PhoneCode": "268"
+  },
+  {
+    "CountryID": 10,
+    "BinaryCode": "AR",
+    "TripleCode": "ARG",
+    "Name": "Argentina",
+    "PhoneCode": "54"
+  },
+  {
+    "CountryID": 11,
+    "BinaryCode": "AM",
+    "TripleCode": "ARM",
+    "Name": "Armenia",
+    "PhoneCode": "374"
+  },
+  {
+    "CountryID": 12,
+    "BinaryCode": "AW",
+    "TripleCode": "ABW",
+    "Name": "Aruba",
+    "PhoneCode": "297"
+  },
+  {
+    "CountryID": 13,
+    "BinaryCode": "AU",
+    "TripleCode": "AUS",
+    "Name": "Australia",
+    "PhoneCode": "61"
+  },
+  {
+    "CountryID": 14,
+    "BinaryCode": "AT",
+    "TripleCode": "AUT",
+    "Name": "Austria",
+    "PhoneCode": "43"
+  },
+  {
+    "CountryID": 15,
+    "BinaryCode": "AZ",
+    "TripleCode": "AZE",
+    "Name": "Azerbaijan",
+    "PhoneCode": "994"
+  },
+  {
+    "CountryID": 16,
+    "BinaryCode": "BS",
+    "TripleCode": "BHS",
+    "Name": "Bahamas",
+    "PhoneCode": "242"
+  },
+  {
+    "CountryID": 17,
+    "BinaryCode": "BH",
+    "TripleCode": "BHR",
+    "Name": "Bahrain",
+    "PhoneCode": "973"
+  },
+  {
+    "CountryID": 18,
+    "BinaryCode": "BD",
+    "TripleCode": "BGD",
+    "Name": "Bangladesh",
+    "PhoneCode": "880"
+  },
+  {
+    "CountryID": 19,
+    "BinaryCode": "BB",
+    "TripleCode": "BRB",
+    "Name": "Barbados",
+    "PhoneCode": "246"
+  },
+  {
+    "CountryID": 20,
+    "BinaryCode": "BY",
+    "TripleCode": "BLR",
+    "Name": "Belarus",
+    "PhoneCode": "375"
+  },
+  {
+    "CountryID": 21,
+    "BinaryCode": "BE",
+    "TripleCode": "BEL",
+    "Name": "Belgium",
+    "PhoneCode": "32"
+  },
+  {
+    "CountryID": 22,
+    "BinaryCode": "BZ",
+    "TripleCode": "BLZ",
+    "Name": "Belize",
+    "PhoneCode": "501"
+  },
+  {
+    "CountryID": 23,
+    "BinaryCode": "BJ",
+    "TripleCode": "BEN",
+    "Name": "Benin",
+    "PhoneCode": "229"
+  },
+  {
+    "CountryID": 24,
+    "BinaryCode": "BM",
+    "TripleCode": "BMU",
+    "Name": "Bermuda",
+    "PhoneCode": "441"
+  },
+  {
+    "CountryID": 25,
+    "BinaryCode": "BT",
+    "TripleCode": "BTN",
+    "Name": "Bhutan",
+    "PhoneCode": "975"
+  },
+  {
+    "CountryID": 26,
+    "BinaryCode": "BO",
+    "TripleCode": "BOL",
+    "Name": "Bolivia",
+    "PhoneCode": "591"
+  },
+  {
+    "CountryID": 27,
+    "BinaryCode": "BA",
+    "TripleCode": "BIH",
+    "Name": "Bosnia and Herzegovina",
+    "PhoneCode": "387"
+  },
+  {
+    "CountryID": 28,
+    "BinaryCode": "BW",
+    "TripleCode": "BWA",
+    "Name": "Botswana",
+    "PhoneCode": "267"
+  },
+  {
+    "CountryID": 29,
+    "BinaryCode": "BR",
+    "TripleCode": "BRA",
+    "Name": "Brazil",
+    "PhoneCode": "55"
+  },
+  {
+    "CountryID": 30,
+    "BinaryCode": "VG",
+    "TripleCode": "VGB",
+    "Name": "British Virgin Islands",
+    "PhoneCode": "284"
+  },
+  {
+    "CountryID": 31,
+    "BinaryCode": "BN",
+    "TripleCode": "BRN",
+    "Name": "Brunei",
+    "PhoneCode": "673"
+  },
+  {
+    "CountryID": 32,
+    "BinaryCode": "BG",
+    "TripleCode": "BGR",
+    "Name": "Bulgaria",
+    "PhoneCode": "359"
+  },
+  {
+    "CountryID": 33,
+    "BinaryCode": "BF",
+    "TripleCode": "BFA",
+    "Name": "Burkina Faso",
+    "PhoneCode": "226"
+  },
+  {
+    "CountryID": 34,
+    "BinaryCode": "BI",
+    "TripleCode": "BDI",
+    "Name": "Burundi",
+    "PhoneCode": "257"
+  },
+  {
+    "CountryID": 35,
+    "BinaryCode": "KH",
+    "TripleCode": "KHM",
+    "Name": "Cambodia",
+    "PhoneCode": "855"
+  },
+  {
+    "CountryID": 36,
+    "BinaryCode": "CM",
+    "TripleCode": "CMR",
+    "Name": "Cameroon",
+    "PhoneCode": "237"
+  },
+  {
+    "CountryID": 37,
+    "BinaryCode": "CA",
+    "TripleCode": "CAN",
+    "Name": "Canada",
+    "PhoneCode": "1"
+  },
+  {
+    "CountryID": 38,
+    "BinaryCode": "CV",
+    "TripleCode": "CPV",
+    "Name": "Cape Verde",
+    "PhoneCode": "238"
+  },
+  {
+    "CountryID": 39,
+    "BinaryCode": "KY",
+    "TripleCode": "CYM",
+    "Name": "Cayman Islands",
+    "PhoneCode": "345"
+  },
+  {
+    "CountryID": 40,
+    "BinaryCode": "CF",
+    "TripleCode": "CAF",
+    "Name": "Central African Republic",
+    "PhoneCode": "236"
+  },
+  {
+    "CountryID": 41,
+    "BinaryCode": "TD",
+    "TripleCode": "TCD",
+    "Name": "Chad",
+    "PhoneCode": "235"
+  },
+  {
+    "CountryID": 42,
+    "BinaryCode": "CL",
+    "TripleCode": "CHL",
+    "Name": "Chile",
+    "PhoneCode": "56"
+  },
+  {
+    "CountryID": 43,
+    "BinaryCode": "CN",
+    "TripleCode": "CHN",
+    "Name": "China",
+    "PhoneCode": "86"
+  },
+  {
+    "CountryID": 44,
+    "BinaryCode": "CX",
+    "TripleCode": "CXR",
+    "Name": "Christmas Island",
+    "PhoneCode": "61"
+  },
+  {
+    "CountryID": 45,
+    "BinaryCode": "CC",
+    "TripleCode": "CCK",
+    "Name": "Cocos [Keeling] Islands",
+    "PhoneCode": "61"
+  },
+  {
+    "CountryID": 46,
+    "BinaryCode": "CO",
+    "TripleCode": "COL",
+    "Name": "Colombia",
+    "PhoneCode": "57"
+  },
+  {
+    "CountryID": 47,
+    "BinaryCode": "KM",
+    "TripleCode": "COM",
+    "Name": "Comoros",
+    "PhoneCode": "269"
+  },
+  {
+    "CountryID": 48,
+    "BinaryCode": "CD",
+    "TripleCode": "COD",
+    "Name": "Congo [DRC]",
+    "PhoneCode": "242"
+  },
+  {
+    "CountryID": 49,
+    "BinaryCode": "CG",
+    "TripleCode": "COG",
+    "Name": "Congo [Republic]",
+    "PhoneCode": "682"
+  },
+  {
+    "CountryID": 50,
+    "BinaryCode": "CK",
+    "TripleCode": "COK",
+    "Name": "Cook Islands",
+    "PhoneCode": "506"
+  },
+  {
+    "CountryID": 51,
+    "BinaryCode": "CR",
+    "TripleCode": "CRI",
+    "Name": "Costa Rica",
+    "PhoneCode": "385"
+  },
+  {
+    "CountryID": 52,
+    "BinaryCode": "HR",
+    "TripleCode": "HRV",
+    "Name": "Croatia",
+    "PhoneCode": "53"
+  },
+  {
+    "CountryID": 53,
+    "BinaryCode": "CU",
+    "TripleCode": "CUB",
+    "Name": "Cuba",
+    "PhoneCode": "599"
+  },
+  {
+    "CountryID": 54,
+    "BinaryCode": "CY",
+    "TripleCode": "CYP",
+    "Name": "Cyprus",
+    "PhoneCode": "357"
+  },
+  {
+    "CountryID": 55,
+    "BinaryCode": "CZ",
+    "TripleCode": "CZE",
+    "Name": "Czech Republic",
+    "PhoneCode": "420"
+  },
+  {
+    "CountryID": 56,
+    "BinaryCode": "DK",
+    "TripleCode": "DNK",
+    "Name": "Denmark",
+    "PhoneCode": "45"
+  },
+  {
+    "CountryID": 57,
+    "BinaryCode": "DJ",
+    "TripleCode": "DJI",
+    "Name": "Djibouti",
+    "PhoneCode": "253"
+  },
+  {
+    "CountryID": 58,
+    "BinaryCode": "DM",
+    "TripleCode": "DMA",
+    "Name": "Dominica",
+    "PhoneCode": "767"
+  },
+  {
+    "CountryID": 59,
+    "BinaryCode": "DO",
+    "TripleCode": "DOM",
+    "Name": "Dominican Republic",
+    "PhoneCode": "809"
+  },
+  {
+    "CountryID": 60,
+    "BinaryCode": "TL",
+    "TripleCode": "TLS",
+    "Name": "East Timor",
+    "PhoneCode": "56"
+  },
+  {
+    "CountryID": 61,
+    "BinaryCode": "EC",
+    "TripleCode": "ECU",
+    "Name": "Ecuador",
+    "PhoneCode": "593"
+  },
+  {
+    "CountryID": 62,
+    "BinaryCode": "EG",
+    "TripleCode": "EGY",
+    "Name": "Egypt",
+    "PhoneCode": "20"
+  },
+  {
+    "CountryID": 63,
+    "BinaryCode": "SV",
+    "TripleCode": "SLV",
+    "Name": "El Salvador",
+    "PhoneCode": "503"
+  },
+  {
+    "CountryID": 64,
+    "BinaryCode": "GQ",
+    "TripleCode": "GNQ",
+    "Name": "Equatorial Guinea",
+    "PhoneCode": "240"
+  },
+  {
+    "CountryID": 65,
+    "BinaryCode": "ER",
+    "TripleCode": "ERI",
+    "Name": "Eritrea",
+    "PhoneCode": "291"
+  },
+  {
+    "CountryID": 66,
+    "BinaryCode": "EE",
+    "TripleCode": "EST",
+    "Name": "Estonia",
+    "PhoneCode": "372"
+  },
+  {
+    "CountryID": 67,
+    "BinaryCode": "ET",
+    "TripleCode": "ETH",
+    "Name": "Ethiopia",
+    "PhoneCode": "251"
+  },
+  {
+    "CountryID": 68,
+    "BinaryCode": "FK",
+    "TripleCode": "FLK",
+    "Name": "Falkland Islands",
+    "PhoneCode": "500"
+  },
+  {
+    "CountryID": 69,
+    "BinaryCode": "FO",
+    "TripleCode": "FRO",
+    "Name": "Faroe Islands",
+    "PhoneCode": "298"
+  },
+  {
+    "CountryID": 70,
+    "BinaryCode": "FJ",
+    "TripleCode": "FJI",
+    "Name": "Fiji",
+    "PhoneCode": "679"
+  },
+  {
+    "CountryID": 71,
+    "BinaryCode": "FI",
+    "TripleCode": "FIN",
+    "Name": "Finland",
+    "PhoneCode": "358"
+  },
+  {
+    "CountryID": 72,
+    "BinaryCode": "FR",
+    "TripleCode": "FRA",
+    "Name": "France",
+    "PhoneCode": "33"
+  },
+  {
+    "CountryID": 73,
+    "BinaryCode": "GF",
+    "TripleCode": "GUF",
+    "Name": "French Guiana",
+    "PhoneCode": "596"
+  },
+  {
+    "CountryID": 74,
+    "BinaryCode": "PF",
+    "TripleCode": "PYF",
+    "Name": "French Polynesia",
+    "PhoneCode": "594"
+  },
+  {
+    "CountryID": 75,
+    "BinaryCode": "TF",
+    "TripleCode": "ATF",
+    "Name": "French Southern Territories",
+    "PhoneCode": "689"
+  },
+  {
+    "CountryID": 76,
+    "BinaryCode": "GA",
+    "TripleCode": "GAB",
+    "Name": "Gabon",
+    "PhoneCode": "241"
+  },
+  {
+    "CountryID": 77,
+    "BinaryCode": "GM",
+    "TripleCode": "GMB",
+    "Name": "Gambia",
+    "PhoneCode": "220"
+  },
+  {
+    "CountryID": 78,
+    "BinaryCode": "GE",
+    "TripleCode": "GEO",
+    "Name": "Georgia",
+    "PhoneCode": "995"
+  },
+  {
+    "CountryID": 79,
+    "BinaryCode": "DE",
+    "TripleCode": "DEU",
+    "Name": "Germany",
+    "PhoneCode": "49"
+  },
+  {
+    "CountryID": 80,
+    "BinaryCode": "GH",
+    "TripleCode": "GHA",
+    "Name": "Ghana",
+    "PhoneCode": "233"
+  },
+  {
+    "CountryID": 81,
+    "BinaryCode": "GI",
+    "TripleCode": "GIB",
+    "Name": "Gibraltar",
+    "PhoneCode": "350"
+  },
+  {
+    "CountryID": 82,
+    "BinaryCode": "GR",
+    "TripleCode": "GRC",
+    "Name": "Greece",
+    "PhoneCode": "30"
+  },
+  {
+    "CountryID": 83,
+    "BinaryCode": "GL",
+    "TripleCode": "GRL",
+    "Name": "Greenland",
+    "PhoneCode": "299"
+  },
+  {
+    "CountryID": 84,
+    "BinaryCode": "GD",
+    "TripleCode": "GRD",
+    "Name": "Grenada",
+    "PhoneCode": "473"
+  },
+  {
+    "CountryID": 85,
+    "BinaryCode": "GP",
+    "TripleCode": "GLP",
+    "Name": "Guadeloupe",
+    "PhoneCode": "590"
+  },
+  {
+    "CountryID": 86,
+    "BinaryCode": "GU",
+    "TripleCode": "GUM",
+    "Name": "Guam",
+    "PhoneCode": "671"
+  },
+  {
+    "CountryID": 87,
+    "BinaryCode": "GT",
+    "TripleCode": "GTM",
+    "Name": "Guatemala",
+    "PhoneCode": "502"
+  },
+  {
+    "CountryID": 88,
+    "BinaryCode": "GN",
+    "TripleCode": "GIN",
+    "Name": "Guinea",
+    "PhoneCode": "594"
+  },
+  {
+    "CountryID": 89,
+    "BinaryCode": "GW",
+    "TripleCode": "GNB",
+    "Name": "Guinea-Bissau",
+    "PhoneCode": "245"
+  },
+  {
+    "CountryID": 90,
+    "BinaryCode": "GY",
+    "TripleCode": "GUY",
+    "Name": "Guyana",
+    "PhoneCode": "592"
+  },
+  {
+    "CountryID": 91,
+    "BinaryCode": "HT",
+    "TripleCode": "HTI",
+    "Name": "Haiti",
+    "PhoneCode": "509"
+  },
+  {
+    "CountryID": 92,
+    "BinaryCode": "HN",
+    "TripleCode": "HND",
+    "Name": "Honduras",
+    "PhoneCode": "504"
+  },
+  {
+    "CountryID": 93,
+    "BinaryCode": "HK",
+    "TripleCode": "HKG",
+    "Name": "Hong Kong",
+    "PhoneCode": "852"
+  },
+  {
+    "CountryID": 94,
+    "BinaryCode": "HU",
+    "TripleCode": "HUN",
+    "Name": "Hungary",
+    "PhoneCode": "36"
+  },
+  {
+    "CountryID": 95,
+    "BinaryCode": "IS",
+    "TripleCode": "ISL",
+    "Name": "Iceland",
+    "PhoneCode": "354"
+  },
+  {
+    "CountryID": 96,
+    "BinaryCode": "IN",
+    "TripleCode": "IND",
+    "Name": "India",
+    "PhoneCode": "91"
+  },
+  {
+    "CountryID": 97,
+    "BinaryCode": "ID",
+    "TripleCode": "IDN",
+    "Name": "Indonesia",
+    "PhoneCode": "62"
+  },
+  {
+    "CountryID": 98,
+    "BinaryCode": "IR",
+    "TripleCode": "IRN",
+    "Name": "Iran",
+    "PhoneCode": "98"
+  },
+  {
+    "CountryID": 99,
+    "BinaryCode": "IQ",
+    "TripleCode": "IRQ",
+    "Name": "Iraq",
+    "PhoneCode": "964"
+  },
+  {
+    "CountryID": 100,
+    "BinaryCode": "IE",
+    "TripleCode": "IRL",
+    "Name": "Ireland",
+    "PhoneCode": "353"
+  },
+  {
+    "CountryID": 101,
+    "BinaryCode": "IM",
+    "TripleCode": "IMN",
+    "Name": "Isle of Man",
+    "PhoneCode": "44"
+  },
+  {
+    "CountryID": 102,
+    "BinaryCode": "IL",
+    "TripleCode": "ISR",
+    "Name": "Israel",
+    "PhoneCode": "972"
+  },
+  {
+    "CountryID": 103,
+    "BinaryCode": "IT",
+    "TripleCode": "ITA",
+    "Name": "Italy",
+    "PhoneCode": "39"
+  },
+  {
+    "CountryID": 104,
+    "BinaryCode": "CI",
+    "TripleCode": "CIV",
+    "Name": "Ivory Coast",
+    "PhoneCode": "225"
+  },
+  {
+    "CountryID": 105,
+    "BinaryCode": "JM",
+    "TripleCode": "JAM",
+    "Name": "Jamaica",
+    "PhoneCode": "876"
+  },
+  {
+    "CountryID": 106,
+    "BinaryCode": "JP",
+    "TripleCode": "JPN",
+    "Name": "Japan",
+    "PhoneCode": "81"
+  },
+  {
+    "CountryID": 107,
+    "BinaryCode": "JO",
+    "TripleCode": "JOR",
+    "Name": "Jordan",
+    "PhoneCode": "962"
+  },
+  {
+    "CountryID": 108,
+    "BinaryCode": "KZ",
+    "TripleCode": "KAZ",
+    "Name": "Kazakhstan",
+    "PhoneCode": "7"
+  },
+  {
+    "CountryID": 109,
+    "BinaryCode": "KE",
+    "TripleCode": "KEN",
+    "Name": "Kenya",
+    "PhoneCode": "254"
+  },
+  {
+    "CountryID": 110,
+    "BinaryCode": "KI",
+    "TripleCode": "KIR",
+    "Name": "Kiribati",
+    "PhoneCode": "686"
+  },
+  {
+    "CountryID": 111,
+    "BinaryCode": "XK",
+    "TripleCode": "XKX",
+    "Name": "Kosovo",
+    "PhoneCode": "381"
+  },
+  {
+    "CountryID": 112,
+    "BinaryCode": "KW",
+    "TripleCode": "KWT",
+    "Name": "Kuwait",
+    "PhoneCode": "965"
+  },
+  {
+    "CountryID": 113,
+    "BinaryCode": "KG",
+    "TripleCode": "KGZ",
+    "Name": "Kyrgyzstan",
+    "PhoneCode": "996"
+  },
+  {
+    "CountryID": 114,
+    "BinaryCode": "LA",
+    "TripleCode": "LAO",
+    "Name": "Laos",
+    "PhoneCode": "856"
+  },
+  {
+    "CountryID": 115,
+    "BinaryCode": "LV",
+    "TripleCode": "LVA",
+    "Name": "Latvia",
+    "PhoneCode": "371"
+  },
+  {
+    "CountryID": 116,
+    "BinaryCode": "LB",
+    "TripleCode": "LBN",
+    "Name": "Lebanon",
+    "PhoneCode": "961"
+  },
+  {
+    "CountryID": 117,
+    "BinaryCode": "LS",
+    "TripleCode": "LSO",
+    "Name": "Lesotho",
+    "PhoneCode": "266"
+  },
+  {
+    "CountryID": 118,
+    "BinaryCode": "LR",
+    "TripleCode": "LBR",
+    "Name": "Liberia",
+    "PhoneCode": "231"
+  },
+  {
+    "CountryID": 119,
+    "BinaryCode": "LY",
+    "TripleCode": "LBY",
+    "Name": "Libya",
+    "PhoneCode": "218"
+  },
+  {
+    "CountryID": 120,
+    "BinaryCode": "LI",
+    "TripleCode": "LIE",
+    "Name": "Liechtenstein",
+    "PhoneCode": "423"
+  },
+  {
+    "CountryID": 121,
+    "BinaryCode": "LT",
+    "TripleCode": "LTU",
+    "Name": "Lithuania",
+    "PhoneCode": "370"
+  },
+  {
+    "CountryID": 122,
+    "BinaryCode": "LU",
+    "TripleCode": "LUX",
+    "Name": "Luxembourg",
+    "PhoneCode": "352"
+  },
+  {
+    "CountryID": 123,
+    "BinaryCode": "MO",
+    "TripleCode": "MAC",
+    "Name": "Macau",
+    "PhoneCode": "853"
+  },
+  {
+    "CountryID": 124,
+    "BinaryCode": "MK",
+    "TripleCode": "MKD",
+    "Name": "Macedonia",
+    "PhoneCode": "389"
+  },
+  {
+    "CountryID": 125,
+    "BinaryCode": "MG",
+    "TripleCode": "MDG",
+    "Name": "Madagascar",
+    "PhoneCode": "261"
+  },
+  {
+    "CountryID": 126,
+    "BinaryCode": "MW",
+    "TripleCode": "MWI",
+    "Name": "Malawi",
+    "PhoneCode": "265"
+  },
+  {
+    "CountryID": 127,
+    "BinaryCode": "MY",
+    "TripleCode": "MYS",
+    "Name": "Malaysia",
+    "PhoneCode": "60"
+  },
+  {
+    "CountryID": 128,
+    "BinaryCode": "MV",
+    "TripleCode": "MDV",
+    "Name": "Maldives",
+    "PhoneCode": "960"
+  },
+  {
+    "CountryID": 129,
+    "BinaryCode": "ML",
+    "TripleCode": "MLI",
+    "Name": "Mali",
+    "PhoneCode": "223"
+  },
+  {
+    "CountryID": 130,
+    "BinaryCode": "MT",
+    "TripleCode": "MLT",
+    "Name": "Malta",
+    "PhoneCode": "356"
+  },
+  {
+    "CountryID": 131,
+    "BinaryCode": "MH",
+    "TripleCode": "MHL",
+    "Name": "Marshall Islands",
+    "PhoneCode": "692"
+  },
+  {
+    "CountryID": 132,
+    "BinaryCode": "MQ",
+    "TripleCode": "MTQ",
+    "Name": "Martinique",
+    "PhoneCode": "670"
+  },
+  {
+    "CountryID": 133,
+    "BinaryCode": "MR",
+    "TripleCode": "MRT",
+    "Name": "Mauritania",
+    "PhoneCode": "222"
+  },
+  {
+    "CountryID": 134,
+    "BinaryCode": "MU",
+    "TripleCode": "MUS",
+    "Name": "Mauritius",
+    "PhoneCode": "230"
+  },
+  {
+    "CountryID": 135,
+    "BinaryCode": "YT",
+    "TripleCode": "MYT",
+    "Name": "Mayotte",
+    "PhoneCode": "269"
+  },
+  {
+    "CountryID": 136,
+    "BinaryCode": "MX",
+    "TripleCode": "MEX",
+    "Name": "Mexico",
+    "PhoneCode": "52"
+  },
+  {
+    "CountryID": 137,
+    "BinaryCode": "FM",
+    "TripleCode": "FSM",
+    "Name": "Micronesia",
+    "PhoneCode": "691"
+  },
+  {
+    "CountryID": 138,
+    "BinaryCode": "MD",
+    "TripleCode": "MDA",
+    "Name": "Moldova",
+    "PhoneCode": "373"
+  },
+  {
+    "CountryID": 139,
+    "BinaryCode": "MC",
+    "TripleCode": "MCO",
+    "Name": "Monaco",
+    "PhoneCode": "377"
+  },
+  {
+    "CountryID": 140,
+    "BinaryCode": "MN",
+    "TripleCode": "MNG",
+    "Name": "Mongolia",
+    "PhoneCode": "976"
+  },
+  {
+    "CountryID": 141,
+    "BinaryCode": "MS",
+    "TripleCode": "MSR",
+    "Name": "Montserrat",
+    "PhoneCode": "664"
+  },
+  {
+    "CountryID": 142,
+    "BinaryCode": "MA",
+    "TripleCode": "MAR",
+    "Name": "Morocco",
+    "PhoneCode": "212"
+  },
+  {
+    "CountryID": 143,
+    "BinaryCode": "MZ",
+    "TripleCode": "MOZ",
+    "Name": "Mozambique",
+    "PhoneCode": "258"
+  },
+  {
+    "CountryID": 144,
+    "BinaryCode": "MM",
+    "TripleCode": "MMR",
+    "Name": "Myanmar [Burma]",
+    "PhoneCode": "95"
+  },
+  {
+    "CountryID": 145,
+    "BinaryCode": "NA",
+    "TripleCode": "NAM",
+    "Name": "Namibia",
+    "PhoneCode": "264"
+  },
+  {
+    "CountryID": 146,
+    "BinaryCode": "NR",
+    "TripleCode": "NRU",
+    "Name": "Nauru",
+    "PhoneCode": "674"
+  },
+  {
+    "CountryID": 147,
+    "BinaryCode": "NP",
+    "TripleCode": "NPL",
+    "Name": "Nepal",
+    "PhoneCode": "977"
+  },
+  {
+    "CountryID": 148,
+    "BinaryCode": "NL",
+    "TripleCode": "NLD",
+    "Name": "Netherlands",
+    "PhoneCode": "31"
+  },
+  {
+    "CountryID": 149,
+    "BinaryCode": "AN",
+    "TripleCode": "ANT",
+    "Name": "Netherlands Antilles",
+    "PhoneCode": "599"
+  },
+  {
+    "CountryID": 150,
+    "BinaryCode": "NC",
+    "TripleCode": "NCL",
+    "Name": "New Caledonia",
+    "PhoneCode": "687"
+  },
+  {
+    "CountryID": 151,
+    "BinaryCode": "NZ",
+    "TripleCode": "NZL",
+    "Name": "New Zealand",
+    "PhoneCode": "64"
+  },
+  {
+    "CountryID": 152,
+    "BinaryCode": "NI",
+    "TripleCode": "NIC",
+    "Name": "Nicaragua",
+    "PhoneCode": "505"
+  },
+  {
+    "CountryID": 153,
+    "BinaryCode": "NE",
+    "TripleCode": "NER",
+    "Name": "Niger",
+    "PhoneCode": "227"
+  },
+  {
+    "CountryID": 154,
+    "BinaryCode": "NG",
+    "TripleCode": "NGA",
+    "Name": "Nigeria",
+    "PhoneCode": "234"
+  },
+  {
+    "CountryID": 155,
+    "BinaryCode": "NU",
+    "TripleCode": "NIU",
+    "Name": "Niue",
+    "PhoneCode": "683"
+  },
+  {
+    "CountryID": 156,
+    "BinaryCode": "NF",
+    "TripleCode": "NFK",
+    "Name": "Norfolk Island",
+    "PhoneCode": "672"
+  },
+  {
+    "CountryID": 157,
+    "BinaryCode": "KP",
+    "TripleCode": "PRK",
+    "Name": "North Korea",
+    "PhoneCode": "850"
+  },
+  {
+    "CountryID": 158,
+    "BinaryCode": "NO",
+    "TripleCode": "NOR",
+    "Name": "Norway",
+    "PhoneCode": "47"
+  },
+  {
+    "CountryID": 159,
+    "BinaryCode": "OM",
+    "TripleCode": "OMN",
+    "Name": "Oman",
+    "PhoneCode": "968"
+  },
+  {
+    "CountryID": 160,
+    "BinaryCode": "PK",
+    "TripleCode": "PAK",
+    "Name": "Pakistan",
+    "PhoneCode": "92"
+  },
+  {
+    "CountryID": 161,
+    "BinaryCode": "PW",
+    "TripleCode": "PLW",
+    "Name": "Palau",
+    "PhoneCode": "680"
+  },
+  {
+    "CountryID": 162,
+    "BinaryCode": "PA",
+    "TripleCode": "PAN",
+    "Name": "Panama",
+    "PhoneCode": "507"
+  },
+  {
+    "CountryID": 163,
+    "BinaryCode": "PG",
+    "TripleCode": "PNG",
+    "Name": "Papua New Guinea",
+    "PhoneCode": "675"
+  },
+  {
+    "CountryID": 164,
+    "BinaryCode": "PY",
+    "TripleCode": "PRY",
+    "Name": "Paraguay",
+    "PhoneCode": "595"
+  },
+  {
+    "CountryID": 165,
+    "BinaryCode": "PE",
+    "TripleCode": "PER",
+    "Name": "Peru",
+    "PhoneCode": "51"
+  },
+  {
+    "CountryID": 166,
+    "BinaryCode": "PH",
+    "TripleCode": "PHL",
+    "Name": "Philippines",
+    "PhoneCode": "63"
+  },
+  {
+    "CountryID": 167,
+    "BinaryCode": "PN",
+    "TripleCode": "PCN",
+    "Name": "Pitcairn Islands",
+    "PhoneCode": "48"
+  },
+  {
+    "CountryID": 168,
+    "BinaryCode": "PL",
+    "TripleCode": "POL",
+    "Name": "Poland",
+    "PhoneCode": "351"
+  },
+  {
+    "CountryID": 169,
+    "BinaryCode": "PT",
+    "TripleCode": "PRT",
+    "Name": "Portugal",
+    "PhoneCode": "239"
+  },
+  {
+    "CountryID": 170,
+    "BinaryCode": "PR",
+    "TripleCode": "PRI",
+    "Name": "Puerto Rico",
+    "PhoneCode": "787"
+  },
+  {
+    "CountryID": 171,
+    "BinaryCode": "QA",
+    "TripleCode": "QAT",
+    "Name": "Qatar",
+    "PhoneCode": "974"
+  },
+  {
+    "CountryID": 172,
+    "BinaryCode": "RE",
+    "TripleCode": "REU",
+    "Name": "Reunyon",
+    "PhoneCode": "262"
+  },
+  {
+    "CountryID": 173,
+    "BinaryCode": "RO",
+    "TripleCode": "ROU",
+    "Name": "Romania",
+    "PhoneCode": "40"
+  },
+  {
+    "CountryID": 174,
+    "BinaryCode": "RU",
+    "TripleCode": "RUS",
+    "Name": "Russia",
+    "PhoneCode": "7"
+  },
+  {
+    "CountryID": 175,
+    "BinaryCode": "RW",
+    "TripleCode": "RWA",
+    "Name": "Rwanda",
+    "PhoneCode": "250"
+  },
+  {
+    "CountryID": 176,
+    "BinaryCode": "SH",
+    "TripleCode": "SHN",
+    "Name": "Saint Helena",
+    "PhoneCode": "290"
+  },
+  {
+    "CountryID": 177,
+    "BinaryCode": "KN",
+    "TripleCode": "KNA",
+    "Name": "Saint Kitts and Nevis",
+    "PhoneCode": "869"
+  },
+  {
+    "CountryID": 178,
+    "BinaryCode": "LC",
+    "TripleCode": "LCA",
+    "Name": "Saint Lucia",
+    "PhoneCode": "758"
+  },
+  {
+    "CountryID": 179,
+    "BinaryCode": "PM",
+    "TripleCode": "SPM",
+    "Name": "Saint Pierre and Miquelon",
+    "PhoneCode": "508"
+  },
+  {
+    "CountryID": 180,
+    "BinaryCode": "VC",
+    "TripleCode": "VCT",
+    "Name": "Saint Vincent and the Grenadines",
+    "PhoneCode": "784"
+  },
+  {
+    "CountryID": 181,
+    "BinaryCode": "SM",
+    "TripleCode": "SMR",
+    "Name": "San Marino",
+    "PhoneCode": "378"
+  },
+  {
+    "CountryID": 182,
+    "BinaryCode": "ST",
+    "TripleCode": "STP",
+    "Name": "Sao Tome and Principe",
+    "PhoneCode": "239"
+  },
+  {
+    "CountryID": 183,
+    "BinaryCode": "SA",
+    "TripleCode": "SAU",
+    "Name": "Saudi Arabia",
+    "PhoneCode": "966"
+  },
+  {
+    "CountryID": 184,
+    "BinaryCode": "SN",
+    "TripleCode": "SEN",
+    "Name": "Senegal",
+    "PhoneCode": "221"
+  },
+  {
+    "CountryID": 185,
+    "BinaryCode": "RS",
+    "TripleCode": "SRB",
+    "Name": "Serbia",
+    "PhoneCode": "381"
+  },
+  {
+    "CountryID": 186,
+    "BinaryCode": "SC",
+    "TripleCode": "SYC",
+    "Name": "Seychelles",
+    "PhoneCode": "248"
+  },
+  {
+    "CountryID": 187,
+    "BinaryCode": "SL",
+    "TripleCode": "SLE",
+    "Name": "Sierra Leone",
+    "PhoneCode": "232"
+  },
+  {
+    "CountryID": 188,
+    "BinaryCode": "SG",
+    "TripleCode": "SGP",
+    "Name": "Singapore",
+    "PhoneCode": "65"
+  },
+  {
+    "CountryID": 189,
+    "BinaryCode": "SK",
+    "TripleCode": "SVK",
+    "Name": "Slovakia",
+    "PhoneCode": "421"
+  },
+  {
+    "CountryID": 190,
+    "BinaryCode": "SI",
+    "TripleCode": "SVN",
+    "Name": "Slovenia",
+    "PhoneCode": "386"
+  },
+  {
+    "CountryID": 191,
+    "BinaryCode": "SB",
+    "TripleCode": "SLB",
+    "Name": "Solomon Islands",
+    "PhoneCode": "677"
+  },
+  {
+    "CountryID": 192,
+    "BinaryCode": "SO",
+    "TripleCode": "SOM",
+    "Name": "Somalia",
+    "PhoneCode": "252"
+  },
+  {
+    "CountryID": 193,
+    "BinaryCode": "ZA",
+    "TripleCode": "ZAF",
+    "Name": "South Africa",
+    "PhoneCode": "27"
+  },
+  {
+    "CountryID": 194,
+    "BinaryCode": "KR",
+    "TripleCode": "KOR",
+    "Name": "South Korea",
+    "PhoneCode": "82"
+  },
+  {
+    "CountryID": 195,
+    "BinaryCode": "ES",
+    "TripleCode": "ESP",
+    "Name": "Spain",
+    "PhoneCode": "34"
+  },
+  {
+    "CountryID": 196,
+    "BinaryCode": "LK",
+    "TripleCode": "LKA",
+    "Name": "Sri Lanka",
+    "PhoneCode": "94"
+  },
+  {
+    "CountryID": 197,
+    "BinaryCode": "SD",
+    "TripleCode": "SDN",
+    "Name": "Sudan",
+    "PhoneCode": "249"
+  },
+  {
+    "CountryID": 198,
+    "BinaryCode": "SR",
+    "TripleCode": "SUR",
+    "Name": "Suriname",
+    "PhoneCode": "597"
+  },
+  {
+    "CountryID": 199,
+    "BinaryCode": "SZ",
+    "TripleCode": "SWZ",
+    "Name": "Swaziland",
+    "PhoneCode": "268"
+  },
+  {
+    "CountryID": 200,
+    "BinaryCode": "SE",
+    "TripleCode": "SWE",
+    "Name": "Sweden",
+    "PhoneCode": "46"
+  },
+  {
+    "CountryID": 201,
+    "BinaryCode": "CH",
+    "TripleCode": "CHE",
+    "Name": "Switzerland",
+    "PhoneCode": "41"
+  },
+  {
+    "CountryID": 202,
+    "BinaryCode": "SY",
+    "TripleCode": "SYR",
+    "Name": "Syria",
+    "PhoneCode": "963"
+  },
+  {
+    "CountryID": 203,
+    "BinaryCode": "TW",
+    "TripleCode": "TWN",
+    "Name": "Taiwan",
+    "PhoneCode": "886"
+  },
+  {
+    "CountryID": 204,
+    "BinaryCode": "TJ",
+    "TripleCode": "TJK",
+    "Name": "Tajikistan",
+    "PhoneCode": "992"
+  },
+  {
+    "CountryID": 205,
+    "BinaryCode": "TZ",
+    "TripleCode": "TZA",
+    "Name": "Tanzania",
+    "PhoneCode": "255"
+  },
+  {
+    "CountryID": 206,
+    "BinaryCode": "TH",
+    "TripleCode": "THA",
+    "Name": "Thailand",
+    "PhoneCode": "66"
+  },
+  {
+    "CountryID": 207,
+    "BinaryCode": "TG",
+    "TripleCode": "TGO",
+    "Name": "Togo",
+    "PhoneCode": "228"
+  },
+  {
+    "CountryID": 208,
+    "BinaryCode": "TK",
+    "TripleCode": "TKL",
+    "Name": "Tokelau",
+    "PhoneCode": "690"
+  },
+  {
+    "CountryID": 209,
+    "BinaryCode": "TO",
+    "TripleCode": "TON",
+    "Name": "Tonga",
+    "PhoneCode": "676"
+  },
+  {
+    "CountryID": 210,
+    "BinaryCode": "TT",
+    "TripleCode": "TTO",
+    "Name": "Trinidad and Tobago",
+    "PhoneCode": "868"
+  },
+  {
+    "CountryID": 211,
+    "BinaryCode": "TN",
+    "TripleCode": "TUN",
+    "Name": "Tunisia",
+    "PhoneCode": "216"
+  },
+  {
+    "CountryID": 212,
+    "BinaryCode": "TR",
+    "TripleCode": "TUR",
+    "Name": "Turkey",
+    "PhoneCode": "90"
+  },
+  {
+    "CountryID": 213,
+    "BinaryCode": "TM",
+    "TripleCode": "TKM",
+    "Name": "Turkmenistan",
+    "PhoneCode": "993"
+  },
+  {
+    "CountryID": 214,
+    "BinaryCode": "TC",
+    "TripleCode": "TCA",
+    "Name": "Turks and Caicos Islands",
+    "PhoneCode": "649"
+  },
+  {
+    "CountryID": 215,
+    "BinaryCode": "TV",
+    "TripleCode": "TUV",
+    "Name": "Tuvalu",
+    "PhoneCode": "688"
+  },
+  {
+    "CountryID": 216,
+    "BinaryCode": "VI",
+    "TripleCode": "VIR",
+    "Name": "U.S. Virgin Islands",
+    "PhoneCode": "340"
+  },
+  {
+    "CountryID": 217,
+    "BinaryCode": "UG",
+    "TripleCode": "UGA",
+    "Name": "Uganda",
+    "PhoneCode": "256"
+  },
+  {
+    "CountryID": 218,
+    "BinaryCode": "UA",
+    "TripleCode": "UKR",
+    "Name": "Ukraine",
+    "PhoneCode": "380"
+  },
+  {
+    "CountryID": 219,
+    "BinaryCode": "AE",
+    "TripleCode": "ARE",
+    "Name": "United Arab Emirates",
+    "PhoneCode": "971"
+  },
+  {
+    "CountryID": 220,
+    "BinaryCode": "GB",
+    "TripleCode": "GBR",
+    "Name": "United Kingdom",
+    "PhoneCode": "44"
+  },
+  {
+    "CountryID": 221,
+    "BinaryCode": "US",
+    "TripleCode": "USA",
+    "Name": "United States",
+    "PhoneCode": "1"
+  },
+  {
+    "CountryID": 222,
+    "BinaryCode": "UY",
+    "TripleCode": "URY",
+    "Name": "Uruguay",
+    "PhoneCode": "598"
+  },
+  {
+    "CountryID": 223,
+    "BinaryCode": "UZ",
+    "TripleCode": "UZB",
+    "Name": "Uzbekistan",
+    "PhoneCode": "998"
+  },
+  {
+    "CountryID": 224,
+    "BinaryCode": "VU",
+    "TripleCode": "VUT",
+    "Name": "Vanuatu",
+    "PhoneCode": "678"
+  },
+  {
+    "CountryID": 225,
+    "BinaryCode": "VA",
+    "TripleCode": "VAT",
+    "Name": "Vatican City",
+    "PhoneCode": "39"
+  },
+  {
+    "CountryID": 226,
+    "BinaryCode": "VE",
+    "TripleCode": "VEN",
+    "Name": "Venezuela",
+    "PhoneCode": "58"
+  },
+  {
+    "CountryID": 227,
+    "BinaryCode": "VN",
+    "TripleCode": "VNM",
+    "Name": "Vietnam",
+    "PhoneCode": "84"
+  },
+  {
+    "CountryID": 228,
+    "BinaryCode": "WF",
+    "TripleCode": "WLF",
+    "Name": "Wallis and Futuna",
+    "PhoneCode": "681"
+  },
+  {
+    "CountryID": 229,
+    "BinaryCode": "YE",
+    "TripleCode": "YEM",
+    "Name": "Yemen",
+    "PhoneCode": "967"
+  },
+  {
+    "CountryID": 230,
+    "BinaryCode": "ZM",
+    "TripleCode": "ZMB",
+    "Name": "Zambia",
+    "PhoneCode": "260"
+  },
+  {
+    "CountryID": 231,
+    "BinaryCode": "ZW",
+    "TripleCode": "ZWE",
+    "Name": "Zimbabwe",
+    "PhoneCode": "263"
+  },
+  {
+    "CountryID": 232,
+    "BinaryCode": "CY",
+    "TripleCode": "CYP",
+    "Name": "KKTC",
+    "PhoneCode": "90"
+  }
+]

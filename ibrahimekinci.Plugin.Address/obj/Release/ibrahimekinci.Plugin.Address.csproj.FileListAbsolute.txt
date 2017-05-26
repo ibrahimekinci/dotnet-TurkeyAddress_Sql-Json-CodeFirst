@@ -1,0 +1,14 @@
+C:\_jops\ibrahimekinciTemp\ibrahimekinci\ibrahimekinci.Plugin.Address\bin\Release\ibrahimekinci.Plugin.Address.dll
+C:\_jops\ibrahimekinciTemp\ibrahimekinci\ibrahimekinci.Plugin.Address\bin\Release\ibrahimekinci.Plugin.Address.pdb
+C:\_jops\ibrahimekinciTemp\ibrahimekinci\ibrahimekinci.Plugin.Address\bin\Release\Newtonsoft.Json.dll
+C:\_jops\ibrahimekinciTemp\ibrahimekinci\ibrahimekinci.Plugin.Address\bin\Release\Newtonsoft.Json.xml
+C:\_jops\ibrahimekinciTemp\ibrahimekinci\ibrahimekinci.Plugin.Address\obj\Release\ibrahimekinci.Plugin.Address.dll
+C:\_jops\ibrahimekinciTemp\ibrahimekinci\ibrahimekinci.Plugin.Address\obj\Release\ibrahimekinci.Plugin.Address.pdb
+C:\Projects\ibrahimekinci\ibrahimekinci\ibrahimekinci.Plugin.Address\bin\Release\ibrahimekinci.Plugin.Address.dll.config
+C:\Projects\ibrahimekinci\ibrahimekinci\ibrahimekinci.Plugin.Address\bin\Release\ibrahimekinci.Plugin.Address.dll
+C:\Projects\ibrahimekinci\ibrahimekinci\ibrahimekinci.Plugin.Address\bin\Release\ibrahimekinci.Plugin.Address.pdb
+C:\Projects\ibrahimekinci\ibrahimekinci\ibrahimekinci.Plugin.Address\bin\Release\Newtonsoft.Json.dll
+C:\Projects\ibrahimekinci\ibrahimekinci\ibrahimekinci.Plugin.Address\bin\Release\Newtonsoft.Json.xml
+C:\Projects\ibrahimekinci\ibrahimekinci\ibrahimekinci.Plugin.Address\obj\Release\ibrahimekinci.Plugin.Address.dll
+C:\Projects\ibrahimekinci\ibrahimekinci\ibrahimekinci.Plugin.Address\obj\Release\ibrahimekinci.Plugin.Address.pdb
+C:\Projects\ibrahimekinci\ibrahimekinci\ibrahimekinci.Plugin.Address\obj\Release\ibrahimekinci.Plugin.Address.csprojResolveAssemblyReference.cache
